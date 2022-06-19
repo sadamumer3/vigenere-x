@@ -1,0 +1,30 @@
+{
+  "name": "vigenere-x",
+  "version": "1.0.0",
+  "description": "A package to encrypt and decrypt messages using the Vigenere cipher with some extra features.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadamumer3/vigenere-x"
+  },
+  "keywords": [
+    "vigenere",
+    "vigenereX",
+    "vigenere-x",
+    "cipher",
+    "encryption",
+    "decryption",
+    "Sadam Umer",
+    "Saddam Umer",
+    "sadamumer3"
+  ],
+  "author": "sadamumer3",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sadamumer3/vigenere-x/issues"
+  },
+  "homepage": "https://github.com/sadamumer3/vigenere-x#readme"
+}
